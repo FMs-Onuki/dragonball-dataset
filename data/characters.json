@@ -1,0 +1,114 @@
+[
+  {
+    "name": "孫悟空",
+    "reading": "そん ごくう",
+    "birth_year": "Age 737",
+    "death_year": null,
+    "senzu_beans_eaten": 11,
+    "revival_count": 2
+  },
+  {
+    "name": "ベジータ",
+    "reading": "べじーた",
+    "birth_year": "Age 732",
+    "death_year": null,
+    "senzu_beans_eaten": 6,
+    "revival_count": 2
+  },
+  {
+    "name": "ヤジロベー",
+    "reading": "やじろべー",
+    "birth_year": "Age 735",
+    "death_year": null,
+    "senzu_beans_eaten": 9999,
+    "revival_count": 1
+  },
+  {
+    "name": "ピッコロ",
+    "reading": "ぴっころ",
+    "birth_year": "Age 753",
+    "death_year": null,
+    "senzu_beans_eaten": null,
+    "revival_count": 2
+  },
+  {
+    "name": "クリリン",
+    "reading": "くりりん",
+    "birth_year": "Age 736",
+    "death_year": null,
+    "senzu_beans_eaten": 3.5,
+    "revival_count": 3
+  },
+  {
+    "name": "セル",
+    "reading": "せる",
+    "birth_year": null,
+    "death_year": "Age 767",
+    "senzu_beans_eaten": 1,
+    "revival_count": 0
+  },
+  {
+    "name": "ビーデル",
+    "reading": "びーでる",
+    "birth_year": null,
+    "death_year": null,
+    "senzu_beans_eaten": 1,
+    "revival_count": 1
+  },
+  {
+    "name": "フリーザ",
+    "reading": "ふりーざ",
+    "birth_year": null,
+    "death_year": null,
+    "senzu_beans_eaten": null,
+    "revival_count": 2
+  },
+  {
+    "name": "ヤムチャ",
+    "reading": "やむちゃ",
+    "birth_year": "Age 733",
+    "death_year": null,
+    "senzu_beans_eaten": null,
+    "revival_count": 2
+  },
+  {
+    "name": "孫悟飯",
+    "reading": "そん ごはん",
+    "birth_year": "Age 757",
+    "death_year": null,
+    "senzu_beans_eaten": null,
+    "revival_count": 1
+  },
+  {
+    "name": "天津飯",
+    "reading": "てんしんはん",
+    "birth_year": "Age 733",
+    "death_year": null,
+    "senzu_beans_eaten": null,
+    "revival_count": 2
+  },
+  {
+    "name": "餃子",
+    "reading": "ちゃおず",
+    "birth_year": null,
+    "death_year": null,
+    "senzu_beans_eaten": null,
+    "revival_count": 3
+  },
+  {
+    "name": "亀仙人",
+    "reading": "かめせんにん",
+    "birth_year": "Age 430",
+    "death_year": null,
+    "senzu_beans_eaten": null,
+    "revival_count": 2
+  },
+  {
+    "name": "人造人間17号",
+    "reading": "じんぞうにんげん じゅうななごう",
+    "birth_year": null,
+    "death_year": null,
+    "senzu_beans_eaten": null,
+    "revival_count": 2
+  }
+]
